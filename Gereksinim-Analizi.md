@@ -121,4 +121,4 @@
 - **Sonuç:** Grafik oluşturmak için veri sağlanır.
   
 ## Gereksinim Dağılımları
-1. [Gökhan Sarıçiçek'in Gereksinimleri](Gökhan-Sarıçiçek/Gökhan-Sarıçiçek-Gereksinimler.md)
+1. [Gökhan Sarıçiçek'in Gereksinimleri](Gökhan-Sarıçiçek/Gökhan-Sarıçiçek-Gereksinimleri.md)
