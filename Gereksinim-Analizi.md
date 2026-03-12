@@ -119,3 +119,6 @@
 - **API Metodu:** GET /statistics/subjects  
 - **Açıklama:** Kullanıcının ders bazında çalışma sürelerini getirir.  
 - **Sonuç:** Grafik oluşturmak için veri sağlanır.
+  
+## Gereksinim Dağılımları
+1. [Gökhan Sarıçiçek'in Gereksinimleri](Gökhan-Sarıçiçek/Gökhan-Sarıçiçek-Gereksinimler.md)
