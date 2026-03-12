@@ -1,4 +1,4 @@
-# Kidigo
+# Kidigo 
 
 ---
 
@@ -6,7 +6,9 @@
 
 ![Ürün Tanıtım Görseli](Product.png)
 
-**Proje Tanımı:** 
+**Proje Tanımı:**
+
+**Kidigo Sınav Yolunda Akıllı Rehberin**
 
 KIDIGO, YKS ve KPSS gibi sınavlara hazırlanan öğrenciler için geliştirilmiş bir **çalışma yönetim uygulamasıdır**.
 Uygulama, öğrencilerin çalışma süreçlerini planlamalarına, ilerlemelerini takip etmelerine ve eksik konularını analiz etmelerine yardımcı olur.
